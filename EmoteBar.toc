@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: EmoteBar
+## Notes: Minimal, movable bar with emote buttons
+## Notes-deDE: Minimalistische, verschiebbare Leiste mit Emote-Buttons
+## Author: neXter
+## Version: 1.8.0
+## SavedVariables: EmoteBarDB
+## IconTexture: Interface\AddOns\EmoteBar\Icons\hello
+
+EmoteBar.lua
