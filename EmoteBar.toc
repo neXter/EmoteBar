@@ -3,8 +3,8 @@
 ## Notes: Minimal, movable bar with emote buttons
 ## Notes-deDE: Minimalistische, verschiebbare Leiste mit Emote-Buttons
 ## Author: neXter
-## Version: 1.8.0
+## Version: 1.8.1
 ## SavedVariables: EmoteBarDB
-## IconTexture: Interface\AddOns\EmoteBar\Icons\hello
+## IconTexture: Interface\AddOns\EmoteBar\Icons\EmoteBar
 
 EmoteBar.lua

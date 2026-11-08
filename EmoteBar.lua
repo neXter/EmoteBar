@@ -1,4 +1,4 @@
--- EmoteBar 1.8.0 – minimalistische Emote-Leiste für WoW Forever (Interface 16001)
+-- EmoteBar 1.8.1 – minimalistische Emote-Leiste für WoW Forever (Interface 16001)
 -- Autor: neXter
 local ADDON = ...
 
