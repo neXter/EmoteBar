@@ -1,6 +1,6 @@
 # EmoteBar
 
-<img src="media/icon-512.png" alt="EmoteBar icon" width="128">
+<img src="docs/assets/icons/icon-512.png" alt="EmoteBar icon" width="128">
 
 A minimal, movable bar of emote buttons for World of Warcraft Forever. Click a button to perform an emote; configure everything in-game.
 

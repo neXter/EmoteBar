@@ -1,0 +1,5 @@
+.claude/
+*.tmp
+*.bak
+Thumbs.db
+dist/

@@ -7,7 +7,7 @@ All notable changes to EmoteBar are documented in this file.
 ### Added
 
 - New addon icon, shown in the in-game AddOn list (`Icons/EmoteBar.tga`).
-- Square PNG versions of the icon for CurseForge, Wago.io, etc. (`media/icon-512.png`, `media/icon-400.png`).
+- Square PNG versions of the icon for CurseForge, Wago.io, etc. (`docs/assets/icons/icon-512.png`, `docs/assets/icons/icon-400.png`).
 - This changelog.
 
 ## [1.8.0] - 2026-11-05
